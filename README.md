@@ -1,8 +1,9 @@
 # PumasUNAMProyect
+
 Este es un repositorio donde desarrollaré funciones de Inteligencia Deportiva del club Pumas UNAM para analizar a profundizar fortalezas y debilidades
 
 
-1. Análisis de la Plantilla (Squad Management)
+### 1. Análisis de la Plantilla (Squad Management)
 
 - Pirámide de edad:  Clasificar a los jugadores en: Prospectos (Cantera), Pico de Rendimiento (24-29 años) y Veteranos.
   Pumas históricamente necesitan equilibrio para mantener la intensidad en C.U.
@@ -13,7 +14,7 @@ Este es un repositorio donde desarrollaré funciones de Inteligencia Deportiva d
 -Disponibilidad Física: Usar datos históricos para identificar jugadores propensos a lesiones,
  Un factor clave dado el desgaste por el horario de juego local (domingos a mediodía)
 
-2. Estilo de Juego (Tactical Analysis)
+### 2. Estilo de Juego (Tactical Analysis)
 
 Pumas se identifican con la presión alta y las transiciones rápidas. Debes medir si esto se está cumpliendo usando métricas avanzadas:
 
@@ -24,7 +25,7 @@ Pumas se identifican con la presión alta y las transiciones rápidas. Debes med
 - Verticalidad: Mide cuántos metros progresa el balón hacia adelante por cada pase. Los Pumas suelen ser más efectivos cuando es directo que cuando tienen posesiones largas.
 
 
-3. Identificación de Áreas de Mejora
+### 3. Identificación de Áreas de Mejora
 
 Se utilizará el concepto de KPIs (indicadores clave de desempeño):
 
@@ -35,7 +36,7 @@ Se utilizará el concepto de KPIs (indicadores clave de desempeño):
 -Efectividad en Balón Parado: En el fútbol moderno, el 30% de los goles vienen de aquí. Evalúa si el equipo está aprovechando su altura y potencia física.
 
 
-Herramientas Sugeridas para el Proyecto
+### Herramientas Sugeridas para el Proyecto
 
 Para que el análisis tenga nivel profesional, utilizaremos este "stack" tecnológico:
 
